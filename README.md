@@ -18,4 +18,4 @@ https://nldev.github.io/TabJack/
 5. When they click back to the fake Gmail tab, they’ll see the standard Gmail login page, assume they’ve been logged out, and provide their credentials to log in. 
 6. After the victim entered all details, redirect them to Gmail Because they were never logged out. It will appears as if the login was successful.
 
-**Disclaimer:** This is solely for education purpose only.
+**Disclaimer:** This is solely for education purpose only. It is just a <a href="https://en.wikipedia.org/wiki/Proof_of_concept">PoC (= Proof of Concept)</a>.
