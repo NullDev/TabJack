@@ -49,4 +49,15 @@
     }
 })();
 
-$(document).ready(function() { $("#g-send").click(function() { alert("I hope you clicked that button ironically..."); }); });
+$(document).ready(function() { 
+    $("#g-send").click(function() { 
+
+        /////////////////////////////////////////////////////
+        alert(                                             //
+            "I hope you clicked that button ironically..." //
+        );                                                 //
+        /////////////////////////////////////////////////////
+        
+        window.location = "https://www.google.com/gmail/"; 
+    }); 
+});
