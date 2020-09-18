@@ -1,9 +1,9 @@
 # TabJack
-Implementation of an interesting Tab-Jacking phishing attack
+Implementation of an interesting Tab-Jacking / Tab-Nabbing phishing attack
 
-Blog post by <a href="https://twitter.com/aza">@aza</a>:
+Blog post by <a href="https://twitter.com/aza">@aza</a> (archived version, post was deleted):
 
-http://www.azarask.in/blog/post/a-new-type-of-phishing-attack/
+https://web.archive.org/web/20191121174508/http://www.azarask.in/blog/post/a-new-type-of-phishing-attack/
 
 Live Version:
 
